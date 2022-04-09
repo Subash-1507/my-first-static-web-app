@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'NoyatraVazhvu'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4DB052AA09A44251A0F9C5B6A77928E4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4FE53BCBBED2439D8F2D0940AAE7E3C7 }}
